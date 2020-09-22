@@ -1,2 +1,3 @@
 # hello-world
-initial repository (I have no idea what I'm doing)
+
+Physicist in training, learning Python (I think, this could be anything and at this stage and I would have no idea).
